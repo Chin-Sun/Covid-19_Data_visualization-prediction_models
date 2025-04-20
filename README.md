@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-This project presents a comprehensive analysis and forecasting system for COVID-19 pandemic trends across global regions. It combines **data scraping**, **interactive web visualization**, and **mathematical modeling** using compartmental epidemiological frameworks (SIR-family models) to **simulate and predict** infection dynamics. Special focus was placed on **Brazil** as a case study for one-month forecasting.
+This project presents a comprehensive analysis and forecasting system for COVID-19 pandemic trends across global regions in 2020. It combines **data scraping**, **interactive web visualization**, and **mathematical modeling** using compartmental epidemiological frameworks (SIR-family models) to **simulate and predict** infection dynamics. Special focus was placed on **Brazil** as a case study for one-month forecasting.
 
 ---
 
